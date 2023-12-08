@@ -1,2 +1,1 @@
-# Libft
-create my own library
+The "Libft" project involves creating a C library with general-purpose functions for C programming assignments, encompassing both mandatory and bonus components. The mandatory part includes the creation of libft.a, implementing functions resembling libc functions with the "ft_" prefix, while adhering to technical considerations and guidelines. Additional functions like ft_substr, ft_strjoin, ft_strtrim, and others are implemented. The bonus part introduces a linked list structure (t_list) with functions such as ft_lstnew and ft_lstadd_front for linked list manipulation.
