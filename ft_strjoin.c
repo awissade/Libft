@@ -49,12 +49,3 @@ char	*ft_strjoin(char const *s1, char const *s2)
 	ft_strjoin2(s1, s2, tab);
 	return (tab);
 }
-/*
-#include<stdio.h>
-int main(void)
-{
-	char const s1[] = "Hello World, ";
-	char const s2[] = "This is just a test";
-	printf("This is the output : %s\n", ft_strjoin(s1, s2));
-}
-*/
