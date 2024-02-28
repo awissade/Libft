@@ -1,1 +1,1 @@
-# Libft
+The "Libft" project 📚 is about crafting a C library 🛠️, featuring a collection of essential and general-purpose functions useful for various C programming tasks. It includes recreating standard libc functions with a 'ft_' prefix, adhering to specific coding standards 📐. Functions like ft_substr, ft_strjoin, ft_strtrim, and more are part of this project. Additionally, the bonus section introduces linked list manipulation with a structure (t_list) and functions like ft_lstnew and ft_lstadd_front 🔄, enriching your toolkit for future C assignments.
